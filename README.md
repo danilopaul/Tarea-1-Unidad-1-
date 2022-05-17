@@ -4,6 +4,6 @@
 
 1.1. Objetivo General:
 
-          v=t+u
+
           
           
