@@ -122,6 +122,31 @@ c)	100(55x10^-3) = 5.5 = 5500x10^3
 	
 	〖4.7x10〗^3 Ω= 4.7kΩ
 	
+26. Exprese cada cantidad en notación de ingeniería
+
+	5µA= 〖5x10〗^(-6)
+	
+	43Mv= 〖43x10〗^(-3) V
+	
+	275kΩ=〖275x10〗^3 Ω
+	
+	10MW= 〖10x10〗^6 W
+	
+Conversiones de unidades métricas.
+
+28. Determine lo siguiente:
+
+a)	El número de microamperes en 1 miliamperio
+
+1mA = 1000 μA
+
+b)	El número de milivolts en 0.05 kilovolts
+
+					(
+					(0.05 kV)*(1x〖10〗^6 mV))/1kV=50000mV 
+
+
+	
 	
 	
 
