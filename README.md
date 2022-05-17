@@ -142,8 +142,35 @@ a)	El número de microamperes en 1 miliamperio
 
 b)	El número de milivolts en 0.05 kilovolts
 
-					(
-					(0.05 kV)*(1x〖10〗^6 mV))/1kV=50000mV 
+((0.05 kV)*(1x〖10〗^6 mV))/1kV= 50000mV 
+
+c)	El número de megohms en 0.02 kilohms
+
+((0.02 kΩ)*(1x10^-3MΩ))/1kΩ= 2x10^-5MΩ 
+
+d)	El número de kilowatts en 155 miliwatts
+
+((155 mW)*(1x10^-6kW))/1mW= 1.55x10^-4kW
+
+30. Realice las siguientes operaciones:
+
+	10 kΩ ÷(2.2 kΩ+10 kΩ) =10kΩ÷(12.2 kΩ) =〖819.6x10〗^3 Ω=819.6kΩ
+	
+	250mV÷50µV=〖250x10〗^(-3)÷〖50x10〗^(-6)=〖5x10〗^3=5kV
+	
+	1MW÷2Kw=500 W
+	
+Resolución de ejercicios (Pares) Capitulo 2:
+
+2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
+
+Elemento: cloro == 17e.
+
+     (17 e)/(6.25x〖10〗^18 e/C)= 2.72x〖10〗^(-18) C
+     
+     
+
+
 
 
 	
