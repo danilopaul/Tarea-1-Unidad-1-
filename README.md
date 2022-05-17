@@ -69,6 +69,66 @@ c)	1.0x10^1= 10
 	(〖2.5x10〗^(-6))÷( 〖5.0x10〗^(-8)) = 〖0.5x10〗^2= 50
 	
 	(〖4.2x10〗^8)÷( 〖2x10〗^(-5)) = 〖2.1x10〗^13
+	
+Notación de ingeniería y prefijos métricos.
+
+14. Exprese cada número en notación de ingeniería:
+
+a)	2.35x10^5= 235x10^3
+
+b)	7.32x10^7= 73.2x10^6
+
+c)	1.333x10^9= 1,333x10^6
+
+16. Exprese cada número en notación de ingeniería:
+
+a)	9.81x10^-3= 9.81x10^-3
+
+b)	4.82x10^-4= 482x10^-6
+
+c)	4.38x10^-7= 438x10^-9
+
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+
+a)	(32x10^-3)(56x10^3)= 
+
+(1792x10^0) = 1792 = 1.792x10^3
+
+b)	(1.2x10^-6)(1.2x10^-6) = 1.44x10^-16
+
+c)	100(55x10^-3) = 5.5 = 5500x10^3
+
+20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico
+
+	89,000 = 〖89x10〗^3 Ω=89 kΩ
+	
+	450,000 =〖1.0x10〗^3=450 kΩ
+	
+	12,040,000,000,000 = 〖12.040x10〗^9=12.040GΩ
+	
+22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+
+	〖31x10〗^(-3) A=31mA
+	
+	〖5.5x10〗^3 V=5.5kA 
+	
+	〖20x10〗^(-12) F= 20 pF
+	
+24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos
+
+	〖2.5x10〗^(-12) A=2.5pA
+	
+	〖8x10〗^9 Hz=8GHz
+	
+	〖4.7x10〗^3 Ω= 4.7kΩ
+	
+	
+	
+
+
+
+
+
 
 
           
