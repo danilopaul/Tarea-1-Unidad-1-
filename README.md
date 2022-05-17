@@ -321,6 +321,7 @@ Un multímetro digital de 4 ½ dígitos mostrará hasta 19.999 recuentos de reso
 
 4. Video:
 
+https://youtu.be/ILVUgNSrxEk
 
 
 5. Conclusiones:
