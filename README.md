@@ -323,7 +323,6 @@ Un multímetro digital de 4 ½ dígitos mostrará hasta 19.999 recuentos de reso
 
 https://youtu.be/ILVUgNSrxEk
 
-
 5. Conclusiones:
 
 Los conceptos asimilados en los capítulos 1 y 2 tienen un enfoque al mundo de los circuitos eléctricos nos permites comprender los procesos físicos que ocurren en él, y demostrarlos mediante fórmulas y procesos algebraicos.
